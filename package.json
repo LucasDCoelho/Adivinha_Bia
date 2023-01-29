@@ -1,0 +1,22 @@
+{
+  "name": "adivinha_bia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasDCoelho/Adivinha_Bia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasDCoelho/Adivinha_Bia/issues"
+  },
+  "homepage": "https://github.com/LucasDCoelho/Adivinha_Bia#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
